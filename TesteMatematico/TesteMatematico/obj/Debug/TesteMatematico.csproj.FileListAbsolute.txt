@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\TesteMatematico\TesteMatematico\bin\Debug\TesteMatematico.exe.config
+C:\Users\Aluno\source\repos\TesteMatematico\TesteMatematico\bin\Debug\TesteMatematico.exe
+C:\Users\Aluno\source\repos\TesteMatematico\TesteMatematico\bin\Debug\TesteMatematico.pdb
+C:\Users\Aluno\source\repos\TesteMatematico\TesteMatematico\obj\Debug\TesteMatematico.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\TesteMatematico\TesteMatematico\obj\Debug\TesteMatematico.Form1.resources
+C:\Users\Aluno\source\repos\TesteMatematico\TesteMatematico\obj\Debug\TesteMatematico.Properties.Resources.resources
+C:\Users\Aluno\source\repos\TesteMatematico\TesteMatematico\obj\Debug\TesteMatematico.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\TesteMatematico\TesteMatematico\obj\Debug\TesteMatematico.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\TesteMatematico\TesteMatematico\obj\Debug\TesteMatematico.exe
+C:\Users\Aluno\source\repos\TesteMatematico\TesteMatematico\obj\Debug\TesteMatematico.pdb
